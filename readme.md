@@ -1,10 +1,11 @@
-# Boilerplate for three-js Tytpescript
+# Boilerplate for three-js Typescript
 
 A boilerplate for three and typescript.
 
 run in development
 
 ```bash
+npm install
 npm run dev
 ```
 
